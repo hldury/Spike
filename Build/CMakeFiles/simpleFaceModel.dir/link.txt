@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/simpleFaceModel.dir/simpleFaceModel.cpp.o  -o simpleFaceModel  Spike/Spike/libSpike.dylib -Wl,-rpath,/Users/hakunahahannah/Documents/Projects/Spike/Build/Spike/Spike 

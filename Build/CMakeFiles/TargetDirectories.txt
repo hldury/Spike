@@ -1,0 +1,5 @@
+/Users/hakunahahannah/Documents/Projects/Spike/Build/CMakeFiles/fourLayerPoisson.dir
+/Users/hakunahahannah/Documents/Projects/Spike/Build/Spike/Spike/CMakeFiles/Spike.dir
+/Users/hakunahahannah/Documents/Projects/Spike/Build/Spike/Spike/CMakeFiles/SpikeCUDA.dir
+/Users/hakunahahannah/Documents/Projects/Spike/Build/CMakeFiles/simpleFaceModel.dir
+/Users/hakunahahannah/Documents/Projects/Spike/Build/Spike/Spike/CMakeFiles/SpikeDummy.dir
